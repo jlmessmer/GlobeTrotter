@@ -49,6 +49,7 @@ Rome
 			10
 			0
 end
+name
 New York
 	42
 	-75
@@ -65,6 +66,7 @@ New York
 			100
 			25
 end
+name
 Tokyo
 	35
 	139
@@ -81,6 +83,7 @@ Tokyo
 			10
 			0
 end
+name
 Florence
 	43
 	11
@@ -97,6 +100,7 @@ Florence
 			10
 			0
 end
+name
 Berlin
 	52
 	13
@@ -113,6 +117,7 @@ Berlin
 			10
 			0
 end
+name
 Moscow
 	56
 	38
